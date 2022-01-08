@@ -1,3 +1,1 @@
-# jni-hello
-# jni-hello
-# jni-hello
+# Try JNI CPP on Android
